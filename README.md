@@ -1,1 +1,1 @@
-The host pages for my website, hosted [here](main.irislabs.cc)
+The host pages for my website, hosted here: [main.irislabs.cc]
